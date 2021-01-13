@@ -32,7 +32,7 @@ const INITAL_STATE = {
             id: 5,
             linkUrl: 'shop/mens'
         }
-      ]
+    ]
 };
 
 const directoryReducer = (state = INITAL_STATE, action) => {
